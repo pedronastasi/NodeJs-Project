@@ -1,0 +1,25 @@
+{
+  "name": "amores-perros",
+  "version": "1.0.0",
+  "description": "Pagina de los perros del mundo",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakoarce/amores-perros.git"
+  },
+  "author": "Paco Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pakoarce/amores-perros/issues"
+  },
+  "homepage": "https://github.com/pakoarce/amores-perros#readme"
+}
